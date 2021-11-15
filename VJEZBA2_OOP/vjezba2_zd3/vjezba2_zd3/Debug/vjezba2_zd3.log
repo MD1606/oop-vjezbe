@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA2_OOP\vjezba2_zd3\vjezba2_zd3\Source.cpp(22,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  vjezba2_zd3.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA2_OOP\vjezba2_zd3\Debug\vjezba2_zd3.exe

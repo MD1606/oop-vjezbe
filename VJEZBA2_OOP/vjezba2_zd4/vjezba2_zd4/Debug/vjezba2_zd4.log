@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyVector::vector_new(unsigned int)" (?vector_new@MyVector@@QAEXI@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyVector::vector_delete(void)" (?vector_delete@MyVector@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyVector::vector_push_back(int)" (?vector_push_back@MyVector@@QAEXH@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyVector::vector_pop_back(void)" (?vector_pop_back@MyVector@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: int & __thiscall MyVector::vector_front(void)" (?vector_front@MyVector@@QAEAAHXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: int & __thiscall MyVector::vector_back(void)" (?vector_back@MyVector@@QAEAAHXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: unsigned int __thiscall MyVector::vector_size(void)" (?vector_size@MyVector@@QAEIXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyVector::print_vector(void)" (?print_vector@MyVector@@QAEXXZ) referenced in function _main
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA2_OOP\vjezba2_zd4\Debug\vjezba2_zd4.exe : fatal error LNK1120: 8 unresolved externals

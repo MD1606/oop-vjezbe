@@ -1,0 +1,9 @@
+﻿  matrix.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(18,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(20,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(60,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(62,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(71,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(74,25): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\vjezba1_zd2\matrix.cpp(83,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vjezba1_zd2.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA1_OOP\vjezba1_zd2\Debug\vjezba1_zd2.exe
