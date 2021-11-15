@@ -1,0 +1,8 @@
+﻿  funk.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA3_OOP\vjezba1_zd1_zd2\vjezba1_zd1_zd2\funk.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA3_OOP\vjezba1_zd1_zd2\vjezba1_zd1_zd2\funk.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA3_OOP\vjezba1_zd1_zd2\vjezba1_zd1_zd2\funk.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA3_OOP\vjezba1_zd1_zd2\vjezba1_zd1_zd2\funk.cpp(35,17): warning C4101: 'size': unreferenced local variable
+  main.cpp
+  Generating Code...
+  vjezba1_zd1_zd2.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA3_OOP\vjezba1_zd1_zd2\Debug\vjezba1_zd1_zd2.exe
