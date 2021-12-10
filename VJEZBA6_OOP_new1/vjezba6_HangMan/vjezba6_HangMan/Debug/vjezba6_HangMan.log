@@ -1,0 +1,6 @@
+﻿  HangMan.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA6_OOP_new1\vjezba6_HangMan\vjezba6_HangMan\HangMan.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA6_OOP_new1\vjezba6_HangMan\vjezba6_HangMan\HangMan.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA6_OOP_new1\vjezba6_HangMan\vjezba6_HangMan\HangMan.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA6_OOP_new1\vjezba6_HangMan\vjezba6_HangMan\HangMan.cpp(110): warning C4715: 'HangmanModel::game_over': not all control paths return a value
+  vjezba6_HangMan.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA6_OOP_new1\vjezba6_HangMan\Debug\vjezba6_HangMan.exe
