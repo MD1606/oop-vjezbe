@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16,15): error C2079: 'Board::s' uses undefined struct 'Point'
+  Source.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16,15): error C2079: 'Board::s' uses undefined struct 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(3,8): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(3,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(4,2): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(5,2): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(6,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(7,14): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,15): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,21): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,28): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,34): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,41): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,47): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,54): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(8,60): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(10,13): error C2027: use of undefined type 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Header.hpp(16): message : see declaration of 'Point'
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(11,6): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(11,15): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(12,3): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(13,6): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(13,15): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(14,3): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(15,2): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(15,20): error C2065: 'x': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(16,2): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(16,20): error C2065: 'y': undeclared identifier
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(86,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
