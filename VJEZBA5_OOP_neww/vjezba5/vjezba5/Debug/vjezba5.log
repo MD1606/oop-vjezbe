@@ -1,8 +1,0 @@
-﻿  main.cpp
-C:\Users\Martina\OneDrive\Radna površina\VJEZBA5_OOP_neww\vjezba5\vjezba5\main.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Source.cpp
-C:\Users\Martina\OneDrive\Radna površina\VJEZBA5_OOP_neww\vjezba5\vjezba5\Source.cpp(10,15): warning C4101: 'z': unreferenced local variable
-C:\Users\Martina\OneDrive\Radna površina\VJEZBA5_OOP_neww\vjezba5\vjezba5\Source.cpp(10,12): warning C4101: 'y': unreferenced local variable
-C:\Users\Martina\OneDrive\Radna površina\VJEZBA5_OOP_neww\vjezba5\vjezba5\Source.cpp(10,9): warning C4101: 'x': unreferenced local variable
-  Generating Code...
-  vjezba5.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA5_OOP_neww\vjezba5\Debug\vjezba5.exe
