@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(101,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(187,27): error C2084: function 'void Board::Clear_Board(void)' already has a body
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA7_OOP_new\vjezba7\vjezba7\Source.cpp(171): message : see previous definition of 'Clear_Board'
