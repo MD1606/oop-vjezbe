@@ -1,0 +1,9 @@
+﻿  ComputerPlayer.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA9_OOP_new\VJEZBA9_zd1\VJEZBA9_zd1\ComputerPlayer.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA9_OOP_new\VJEZBA9_zd1\VJEZBA9_zd1\ComputerPlayer.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HumanPlayer.cpp
+C:\Users\Martina\OneDrive\Radna površina\VJEZBA9_OOP_new\VJEZBA9_zd1\VJEZBA9_zd1\HumanPlayer.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Player.cpp
+  Generating Code...
+  VJEZBA9_zd1.vcxproj -> C:\Users\Martina\OneDrive\Radna površina\VJEZBA9_OOP_new\VJEZBA9_zd1\Debug\VJEZBA9_zd1.exe
